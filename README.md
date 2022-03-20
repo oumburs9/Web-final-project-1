@@ -1,6 +1,6 @@
 # Web-final-project
 
-                                                              ##PROJECT TITLE:  MIESITU: Digitalizing sugar and oil distribution system
+                                                              ## PROJECT TITLE:  MIESITU: Digitalizing sugar and oil distribution system
 
                ##PROJECT-DESCRIPTION
 Miesitu is a web app that tries to address one of the local problem of our society. It is meant to solve the problem in sugar and oil distribution at district level by digitalizing the process.
